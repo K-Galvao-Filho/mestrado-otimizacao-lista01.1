@@ -1,0 +1,29 @@
+Modelos de Programação Linear Inteira (PLI) vistos:
+Problema da Mochila (Knapsack)​
+Maximizar valor total respeitando capacidade de peso da mochila.
+
+Problema de Cobertura de Conjuntos (Set Cover)​
+Minimizar número de escolas (ou instalações) cobrindo todos os bairros.
+
+Problema da Clique Máxima​
+Encontrar o maior subgrafo totalmente conectado.
+
+Problema da Frequência (Coloração de grafos)​
+Atribuir frequências às antenas sem interferência, minimizando o número de frequências.
+
+Escalonamento de Horários (Shift Scheduling)​
+Minimizar número de enfermeiras, respeitando turnos e dias consecutivos.
+
+Problema das Facilidades (Facility Location Problem)​
+Escolher locais de depósitos para atender clientes com menor custo total.
+
+Problema de Padrões de Corte (Cutting Stock)​
+Determinar padrões de corte para maximizar o lucro com folhas de metal.
+
+Problema do Fluxo Máximo com restrições de capacidade​
+Maximizar o fluxo de gás
+
+Problema do Transporte com variáveis inteiras​
+
+Quando quantidades transportadas precisam ser inteiras (cargas indivisíveis).
+Problema da Dieta com variáveis inteiras (caso ingredientes sejam indivisíveis)​problemas.md.slides	Pode ser modelado como PLI em certos casos.
